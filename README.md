@@ -6,4 +6,4 @@ A depository showcasing a professional programmer setup to get the most out of y
 
 ### Backgrounds
 
-![alt text](/master/Desktop/Backgrounds/imacOS-Big-Surr.jpg?raw=true "Big Surr")
+![alt text](https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Backgrounds/imacOS-Big-Surr.jpg?raw=true "Big Surr")
