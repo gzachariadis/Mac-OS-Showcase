@@ -4,7 +4,7 @@ A depository showcasing a professional programmer setup to get the most out of y
 
 # Aesthetic Customization
 
-### Backgrounds
+### Static Wallpapers
 <br>
 
 1. Colorful Sky
@@ -31,10 +31,46 @@ A depository showcasing a professional programmer setup to get the most out of y
 <img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Backgrounds/DynamicSky.png?raw=true" width="1000" height="400">
 <br>
 
+### Dynamic Wallpapers
+<br>
+
+1. Night in a City
+
+![Night in a City](https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Backgrounds/Dynamic/GIF/Mountain-Aerial.gif)
+
+2. Mountain Aerial
+
 ### Folders
 <br>
 
 1. First set
 
-<br>
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Folders/PNG/Black.png?raw=true" width="50" height="50"/> <img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Folders/PNG/Blue.png?raw=true" width="50" height="50" /> <img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Folders/PNG/Gray.png?raw=true" width="50" height="50"/> <img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Folders/PNG/Green.png?raw=true" width="50" height="50"/> <img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Folders/PNG/Orange.png?raw=true" width="50" height="50"/> <img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Folders/PNG/Purple.png?raw=true" width="50" height="50"/> <img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Folders/PNG/Red.png?raw=true" width="50" height="50"/> <img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Folders/PNG/Yellow.png?raw=true" width="50" height="50"/>
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Folders/Set1/PNG/Black.png?raw=true" width="50" height="50" align="left" hspace="0"/>
+
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Folders/Set1/PNG/Blue.png?raw=true" width="50" height="50" align="left" hspace="0" />
+
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Folders/Set1/PNG/Gray.png?raw=true" width="50" height="50" align="left" hspace="0" />
+
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Folders/Set1/PNG/Green.png?raw=true" width="50" height="50" align="left"  hspace="0" />
+
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Folders/Set1/PNG/Orange.png?raw=true" width="50" height="50" align="left" hspace="0" />
+
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Folders/Set1/PNG/Purple.png?raw=true" width="50" height="50" align="left" hspace="0" />
+
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Folders/Set1/PNG/Red.png?raw=true" width="50" height="50" align="left" hspace="0" />
+
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Folders/Set1/PNG/Yellow.png?raw=true" width="50" height="50" align="left" hspace="0"/>
+
+
+Tips and Tricks
+
+
+1. Quick Look
+
+    Select a file --> Press Spacebar = Will preview the file without having to open it (press Spacebar again and you will exit preview)
+
+      Sidenote : Option (alt) + Cmd (command) + Y for immediate full screen and Esc to exit it
+
+      Also you can look into a Zip without Unziping (which is free)
+
+          For this you will need the BetterZip Quick Look plugin which can be found here : (https://macitbetter.com/BetterZip-Quick-Look-Generator/)
