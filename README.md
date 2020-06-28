@@ -10,25 +10,25 @@ A depository showcasing a professional programmer setup to get the most out of y
 1. Colorful Sky
 
 <br>
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Backgrounds/ColorfulSky.jpg?raw=true" width="1000" height="400">
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Wallpapers/ColorfulSky.jpg?raw=true" width="1000" height="400">
 <br>
 
 2. Mountains
 
 <br>
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Backgrounds/Mountain.jpeg?raw=true" width="1000" height="400">
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Wallpapers/Mountain.jpeg?raw=true" width="1000" height="400">
 <br>
 
 3. Dreams
 
 <br>
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Backgrounds/Dreams.png?raw=true" width="1000" height="400">
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Wallpapers/Backgrounds/Dreams.png?raw=true" width="1000" height="400">
 <br>
 
 4. Dynamic Sky
 
 <br>
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Backgrounds/DynamicSky.png?raw=true" width="1000" height="400">
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Wallpapers/DynamicSky.png?raw=true" width="1000" height="400">
 <br>
 
 ### Dynamic Wallpapers
@@ -36,7 +36,9 @@ A depository showcasing a professional programmer setup to get the most out of y
 
 1. Night in a City
 
-![Night in a City](https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Backgrounds/Dynamic/GIF/Mountain-Aerial.gif)
+<br>
+[<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">](https://youtu.be/dwvygFPR4i8)
+<br>
 
 2. Mountain Aerial
 
