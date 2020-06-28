@@ -9,16 +9,32 @@ A depository showcasing a professional programmer setup to get the most out of y
 
 1. Colorful Sky
 
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Backgrounds/macOS-Big-Surr.jpg?raw=true" width="1000" height="400">
+   <br>
+
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Backgrounds/ColorfulSky.jpg?raw=true" width="1000" height="400">
+
+<br>
 
 2. Mountains
 
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Backgrounds/Mountain.jpg?raw=true" width="1000" height="400">
+   <br>
+
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Backgrounds/Mountain.jpeg?raw=true" width="1000" height="400">
+
+<br>
 
 3. Dreams
 
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Backgrounds/Dreams.jpg?raw=true" width="1000" height="400">
+   <br>
+
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Backgrounds/Dreams.png?raw=true" width="1000" height="400">
+
+<br>
 
 4. Dynamic Sky
 
-<img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Backgrounds/DynamicSky.jpg?raw=true" width="1000" height="400">
+   <br>
+
+<img src="https://github.com/gzachariadis/Mac-OS-Showcase/blob/master/Desktop/Backgrounds/DynamicSky.png?raw=true" width="1000" height="400">
+
+<br>
